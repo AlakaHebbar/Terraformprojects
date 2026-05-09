@@ -169,7 +169,7 @@ kubectl port-forward svc/resume-service 8080:8080
 # Keep terminal open!
 
 # Method 2: Minikube tunnel (auto URL, also keeps terminal open)
-minikube service resume-service --url
+minikube service resume-service --url 
 
 # Cleanup
 terraform destroy
