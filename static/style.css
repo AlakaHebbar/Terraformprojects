@@ -1,0 +1,132 @@
+body {
+    font-family: 'Montserrat', Arial, sans-serif;
+    background: #f4f6f8;
+    margin: 0;
+    padding: 0;
+    color: #222;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: #fff;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    border-radius: 12px;
+    padding: 40px 32px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #2d72d9;
+}
+
+.subtitle {
+    color: #555;
+    font-size: 1.1rem;
+    margin-top: 8px;
+}
+
+.contact {
+    margin-top: 12px;
+    font-size: 0.98rem;
+    color: #666;
+}
+
+section {
+    margin-bottom: 28px;
+}
+
+h2 {
+    color: #2d72d9;
+    font-size: 1.3rem;
+    border-bottom: 1.5px solid #e0e7ef;
+    padding-bottom: 4px;
+    margin-bottom: 14px;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+    margin-bottom: 12px;
+}
+
+.skills li {
+    background: #e0e7ef;
+    color: #2d72d9;
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-size: 0.98rem;
+}
+
+.skills-category {
+    margin-bottom: 14px;
+}
+
+.skills-category h4 {
+    margin: 6px 0;
+    font-size: 0.95rem;
+    color: #555;
+    font-weight: 600;
+}
+
+.education {
+    margin-bottom: 12px;
+}
+
+.education h3 {
+    margin: 0;
+    font-size: 1.05rem;
+    color: #222;
+}
+
+.education p {
+    margin: 4px 0 0 0;
+    color: #666;
+    font-size: 0.95rem;
+}
+
+.job {
+    margin-bottom: 18px;
+}
+
+.job h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: #222;
+}
+
+.date {
+    font-size: 0.95rem;
+    color: #888;
+    margin-bottom: 6px;
+    display: block;
+}
+
+footer {
+    text-align: center;
+    color: #aaa;
+    font-size: 0.95rem;
+    margin-top: 32px;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 18px 6px;
+    }
+    h1 {
+        font-size: 1.5rem;
+    }
+    h2 {
+        font-size: 1.1rem;
+    }
+}
