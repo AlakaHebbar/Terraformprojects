@@ -240,4 +240,4 @@ MIT License - Free to use, modify, and distribute
 - 📧 Email: hebbaralaka@gmail.com
 - 📱 Phone: 9731980709
 - 💼 Role: Systems Engineer | SRE | Cloud Infrastructure Specialist
-- 🔗 [LinkedIn](https://linkedin.com/in/alaka) | [GitHub](https://github.com/yourusername)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alaka-974854139/) | [GitHub](https://github.com/yourusername)
